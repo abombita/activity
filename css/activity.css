@@ -1,0 +1,19 @@
+*{
+    font-family: monospace;
+}
+
+body{
+    background-color: gray;
+    color: #eee;
+}
+
+nav{
+    background-color: black;
+    width: 20%;
+}
+
+section#tracker{
+    background-color: #444;
+    width: 70%;
+
+}
